@@ -1,4 +1,6 @@
 ### CDV05 | Project Brief: Simple Developer Portfolio Website 🎨
+Portfolio link:  https://kealebogaa-ntheledi-persport-0026ea.netlify.app/
+
 
 #### Objective
 Create a very simple developer portfolio website to showcase your projects, skills, and contact information. This project will help you demonstrate your ability to design and develop a personal website that combines design and user experience, project showcase, content quality, and technical proficiency.
