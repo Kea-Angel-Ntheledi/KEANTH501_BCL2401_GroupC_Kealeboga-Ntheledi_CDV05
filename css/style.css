@@ -35,13 +35,6 @@
     }
 }
 
-/* General styles */
-
-/* endable this to add smooth scrolling */
-/* html {
-    scroll-behavior: smooth;
-} */
-
 
 body {
     background: var(--clr-light);
@@ -68,7 +61,7 @@ strong { font-weight: var(--fw-bold) }
     outline-offset: 3px;
 }
 
-/* Buttons */
+/* Buttons styling */
 
 .btn {
     display: inline-block;
